@@ -71,4 +71,4 @@ python src/prediction.py
 
 ## Author
 
-**Madhuvarshini G**
+**Meenakshi B**
